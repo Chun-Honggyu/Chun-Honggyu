@@ -1,4 +1,6 @@
-### Hi there 👋
+### Major : AI
+### Student Counsil
+### STD_NUM : 2022*****
 
 <!--
 **Chun-Honggyu/Chun-Honggyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
